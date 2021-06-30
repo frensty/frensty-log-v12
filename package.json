@@ -1,0 +1,14 @@
+{
+  "name": "bosaltyapizykaaal",
+  "version": "0.0.1",
+  "description": "zykaaal. boş altyapı",
+  "main": "zykaaal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zykaaal.",
+  "license": "MIT",
+  "dependencies": {
+    "snekfetch": "^4.0.4"
+  }
+}
